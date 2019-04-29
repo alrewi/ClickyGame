@@ -1,50 +1,50 @@
 [
     {
         "id": 1,
-        "image": "public/images/4211459 - adventure axe hatchet tool.png"
+        "image": "../public/images/hatchet.png"
     },
     {
         "id": 2,
-        "image": "public/images/4211460 - adventure equipment light tool torch light.png"
+        "image": "../public/images/torch.png"
     },
     {
         "id": 3,
-        "image": "public/images/4211461 - arrow direction directional navigation orientation sign post.png"
+        "image": "../public/images/signpost.png"
     },
     {
         "id": 4,
-        "image": "public/images/4211462 - adventure camping hiking rope travel.png"
+        "image": "../public/images/rope.png"
     },
     {
         "id": 5,
-        "image": "public/images/4211463 - adventure mountain mountains nature.png"
+        "image": "../public/images/mountains.png"
     },
     {
         "id": 6,
-        "image": "public/images/4211464 - adventure camping flame lighter travel travelling.png"
+        "image": "../public/images/lighter.png"
     },
     {
         "id": 7,
-        "image": "public/images/4211465 - cutter cutting knife tool.png"
+        "image": "../public/images/knife.png"
     },
     {
         "id": 8,
-        "image": "public/images/4211466 - adventure camp camping light lamp vacation.png"
+        "image": "../public/images/lamp.png"
     },
     {
         "id": 9,
-        "image": "public/images/4211468 - adventure camp camping fish fishing hook outdoor.png"
+        "image": "../public/images/fishhook.png"
     },
     {
         "id": 10,
-        "image": "public/images/4211469 - adventure army knife blade camping knife tool tools.png"
+        "image": "../public/images/compass.png"
     },
     {
         "id": 11,
-        "image": "public/images/4211470 - adventure born fire burning camping flame outdoor.png"
+        "image": "../public/images/fire.png"
     },
     {
         "id": 12,
-        "image": "public/images/4211471 - adventure backpack luggage suitcase travelling.png"
+        "image": "../public/images/backpack.png"
     }
 ]
