@@ -1,50 +1,50 @@
 [
     {
         "id": 1,
-        "image": "../public/images/hatchet.png"
+        "image": "./images/hatchet.png"
     },
     {
         "id": 2,
-        "image": "../public/images/torch.png"
+        "image": "./images/torch.png"
     },
     {
         "id": 3,
-        "image": "../public/images/signpost.png"
+        "image": "./images/signpost.png"
     },
     {
         "id": 4,
-        "image": "../public/images/rope.png"
+        "image": "./images/rope.png"
     },
     {
         "id": 5,
-        "image": "../public/images/mountains.png"
+        "image": "./images/mountains.png"
     },
     {
         "id": 6,
-        "image": "../public/images/lighter.png"
+        "image": "./images/lighter.png"
     },
     {
         "id": 7,
-        "image": "../public/images/knife.png"
+        "image": "./images/knife.png"
     },
     {
         "id": 8,
-        "image": "../public/images/lamp.png"
+        "image": "./images/lamp.png"
     },
     {
         "id": 9,
-        "image": "../public/images/fishhook.png"
+        "image": "./images/fishhook.png"
     },
     {
         "id": 10,
-        "image": "../public/images/compass.png"
+        "image": "./images/compass.png"
     },
     {
         "id": 11,
-        "image": "../public/images/fire.png"
+        "image": "./images/fire.png"
     },
     {
         "id": 12,
-        "image": "../public/images/backpack.png"
+        "image": "./images/backpack.png"
     }
 ]

@@ -2,8 +2,8 @@ import React from "react";
 
 const style={
     iconImage: {
-        width: 128,
-        height: 128
+        width: 150,
+        height: 150
     }
 }
 
